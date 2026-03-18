@@ -28,5 +28,5 @@ The project aims to transform raw data into meaningful visual insights that help
 -How do quarterly sales, ratings, and orders compare?
 
 Dashboard Creation
-<a href="
+<a href="https://github.com/pallavikundur1801-maker/Swiggy-Data-Analysis/blob/main/Screenshot%202026-03-14%20200959.png"> View Dashboard</a>
 
